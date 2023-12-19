@@ -10,3 +10,4 @@ C source file line 5
 C source file line 6
 new line 2
 
+after commit line
